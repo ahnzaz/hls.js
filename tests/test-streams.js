@@ -35,6 +35,13 @@ function createTestStreamWithConfig (target, config) {
 }
 
 module.exports = {
+  mpeg_dash: {
+    'url': 'https://dash.akamaized.net/envivio/EnvivioDash3/manifest.mpd',
+    'description': 'MPEG-DASH sample',
+    'live': false,
+    'abr': false,
+    'blacklist_ua': ['internet explorer']
+  },
   bbb: createTestStreamWithConfig({
     url: 'https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8',
     description: 'Big Buck Bunny - adaptive qualities'

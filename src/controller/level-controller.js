@@ -207,6 +207,13 @@ export default class LevelController extends EventHandler {
         // level not retrieved yet, or live playlist we need to (re)load it
         let urlId = level.urlId;
         hls.trigger(Event.LEVEL_LOADING, { url: level.url[urlId], level: newLevel, id: urlId });
+      } else {
+        hls.trigger(Event.LEVEL_LOADED, {
+          details: levelDetails,
+          level: newLevel || 0,
+          id: level.urlId || 0,
+          stats: {}
+        });
       }
     } else {
       // invalid level id given, trigger error
@@ -271,7 +278,7 @@ export default class LevelController extends EventHandler {
       return;
     }
 
-    let levelError = false, fragmentError = false;
+    let levelError = false; let fragmentError = false;
     let levelIndex;
 
     // try to recover not fatal errors
@@ -313,7 +320,7 @@ export default class LevelController extends EventHandler {
     let { config } = this.hls;
     let { details: errorDetails } = errorEvent;
     let level = this._levels[levelIndex];
-    let redundantLevels, delay, nextLevel;
+    let redundantLevels; let delay; let nextLevel;
 
     level.loadError++;
     level.fragmentError = fragmentError;

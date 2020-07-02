@@ -10,7 +10,8 @@ const STORAGE_KEYS = {
 };
 
 const testStreams = require('../tests/test-streams');
-const defaultTestStreamUrl = testStreams['bbb'].url;
+const defaultTestStreamUrl = testStreams['mpeg_dash'].url;
+// const defaultTestStreamUrl = testStreams['bbb'].url;
 const sourceURL = decodeURIComponent(getURLParam('src', defaultTestStreamUrl));
 
 let demoConfig = getURLParam('demoConfig', null);
@@ -340,7 +341,7 @@ function loadSelectedStream () {
   hls.on(Hls.Events.AUDIO_TRACK_SWITCHED, function (name, data) {
     logStatus('Audio track switched');
     updateAudioTrackInfo();
-    var event = {
+    let event = {
       time: performance.now() - events.t0,
       type: 'audio switched',
       name: '@' + data.id
@@ -355,7 +356,7 @@ function loadSelectedStream () {
 
   hls.on(Hls.Events.LEVEL_LOADED, function (name, data) {
     events.isLive = data.details.live;
-    var event = {
+    let event = {
       type: 'level',
       id: data.level,
       start: data.details.startSN,
@@ -366,17 +367,20 @@ function loadSelectedStream () {
       parsing: data.stats.tparsed - data.stats.tload,
       duration: data.stats.tload - data.stats.tfirst
     };
-    const parsingDuration = data.stats.tparsed - data.stats.tload;
-    if (stats.levelParsed) {
-      this.sumLevelParsingMs += parsingDuration;
-    } else {
-      this.sumLevelParsingMs = parsingDuration;
+
+    if (stats) {
+      const parsingDuration = data.stats.tparsed - data.stats.tload;
+      if (stats.levelParsed) {
+        this.sumLevelParsingMs += parsingDuration;
+      } else {
+        this.sumLevelParsingMs = parsingDuration;
+      }
+
+      stats.levelParsed++;
+      stats.levelParsingUs = Math.round(1000 * this.sumLevelParsingMs / stats.levelParsed);
+
+      // console.log('parsing level duration :' + stats.levelParsingUs + 'us,count:' + stats.levelParsed);
     }
-
-    stats.levelParsed++;
-    stats.levelParsingUs = Math.round(1000 * this.sumLevelParsingMs / stats.levelParsed);
-
-    // console.log('parsing level duration :' + stats.levelParsingUs + 'us,count:' + stats.levelParsed);
 
     events.load.push(event);
     trimEventHistory();
@@ -385,7 +389,7 @@ function loadSelectedStream () {
 
   hls.on(Hls.Events.AUDIO_TRACK_LOADED, function (name, data) {
     events.isLive = data.details.live;
-    var event = {
+    let event = {
       type: 'audio track',
       id: data.id,
       start: data.details.startSN,
@@ -402,7 +406,7 @@ function loadSelectedStream () {
   });
 
   hls.on(Hls.Events.FRAG_BUFFERED, function (name, data) {
-    var event = {
+    let event = {
       type: data.frag.type + ' fragment',
       id: data.frag.level,
       id2: data.frag.sn,
@@ -477,7 +481,7 @@ function loadSelectedStream () {
   });
 
   hls.on(Hls.Events.LEVEL_SWITCHED, function (name, data) {
-    var event = {
+    let event = {
       time: performance.now() - events.t0,
       type: 'level switched',
       name: data.level
@@ -489,7 +493,7 @@ function loadSelectedStream () {
   });
 
   hls.on(Hls.Events.FRAG_CHANGED, function (name, data) {
-    var event = {
+    let event = {
       time: performance.now() - events.t0,
       type: 'frag changed',
       name: data.frag.sn + ' @ ' + data.frag.level
@@ -797,7 +801,7 @@ function handleVideoEvent (evt) {
 }
 
 function handleLevelError (data) {
-  var levelObj = data.context || data;
+  let levelObj = data.context || data;
   hls.removeLevel(levelObj.level, levelObj.urlId || 0);
   if (!hls.levels.length) {
     logError('All levels have been removed');

@@ -596,6 +596,7 @@ class BufferController extends EventHandler {
   }
 
   doAppending () {
+    debugger;
     let { config, hls, segments, sourceBuffer } = this;
     if (!Object.keys(sourceBuffer).length) {
       // early exit if no source buffers have been initialized yet

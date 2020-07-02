@@ -27,12 +27,12 @@ class FragmentLoader extends EventHandler {
   }
 
   onFragLoading (data) {
-    const frag = data.frag,
-      type = frag.type,
-      loaders = this.loaders,
-      config = this.hls.config,
-      FragmentILoader = config.fLoader,
-      DefaultILoader = config.loader;
+    const frag = data.frag;
+      const type = frag.type;
+      const loaders = this.loaders;
+      const config = this.hls.config;
+      const FragmentILoader = config.fLoader;
+      const DefaultILoader = config.loader;
 
     // reset fragment state
     frag.loaded = 0;
@@ -46,12 +46,12 @@ class FragmentLoader extends EventHandler {
     loader = loaders[type] = frag.loader =
       config.fLoader ? new FragmentILoader(config) : new DefaultILoader(config);
 
-    let loaderContext, loaderConfig, loaderCallbacks;
+    let loaderContext; let loaderConfig; let loaderCallbacks;
 
     loaderContext = { url: frag.url, frag: frag, responseType: 'arraybuffer', progressData: false };
 
-    let start = frag.byteRangeStartOffset,
-      end = frag.byteRangeEndOffset;
+    let start = frag.byteRangeStartOffset;
+      let end = frag.byteRangeEndOffset;
 
     if (Number.isFinite(start) && Number.isFinite(end)) {
       loaderContext.rangeStart = start;
@@ -76,7 +76,7 @@ class FragmentLoader extends EventHandler {
   }
 
   loadsuccess (response, stats, context, networkDetails = null) {
-    let payload = response.data, frag = context.frag;
+    let payload = response.data; let frag = context.frag;
     // detach fragment loader on load success
     frag.loader = undefined;
     this.loaders[frag.type] = undefined;

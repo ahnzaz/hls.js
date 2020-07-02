@@ -1,0 +1,1810 @@
+{
+  "endCC": 0,
+  "endSN": 63,
+  "fragments": [
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_462/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 0,
+      "sn": 0,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_463/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 10,
+      "sn": 1,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_464/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 20,
+      "sn": 2,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_465/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 30,
+      "sn": 3,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_466/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 40,
+      "sn": 4,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_467/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 50,
+      "sn": 5,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_468/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 60,
+      "sn": 6,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "9.950"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_469/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 9.95,
+      "start": 70,
+      "sn": 7,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.050"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_470/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10.05,
+      "start": 79.95,
+      "sn": 8,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_471/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 90,
+      "sn": 9,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_472/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 100,
+      "sn": 10,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_473/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 110,
+      "sn": 11,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_474/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 120,
+      "sn": 12,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_475/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 130,
+      "sn": 13,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_476/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 140,
+      "sn": 14,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_477/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 150,
+      "sn": 15,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_478/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 160,
+      "sn": 16,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_479/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 170,
+      "sn": 17,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_480/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 180,
+      "sn": 18,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_481/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 190,
+      "sn": 19,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_482/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 200,
+      "sn": 20,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_483/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 210,
+      "sn": 21,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_484/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 220,
+      "sn": 22,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_485/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 230,
+      "sn": 23,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_486/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 240,
+      "sn": 24,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_487/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 250,
+      "sn": 25,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_488/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 260,
+      "sn": 26,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_489/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 270,
+      "sn": 27,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_490/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 280,
+      "sn": 28,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "9.950"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_491/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 9.95,
+      "start": 290,
+      "sn": 29,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.050"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_492/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10.05,
+      "start": 299.95,
+      "sn": 30,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_493/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 310,
+      "sn": 31,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_494/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 320,
+      "sn": 32,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_495/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 330,
+      "sn": 33,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_496/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 340,
+      "sn": 34,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_497/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 350,
+      "sn": 35,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_498/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 360,
+      "sn": 36,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_499/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 370,
+      "sn": 37,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_500/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 380,
+      "sn": 38,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_501/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 390,
+      "sn": 39,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_502/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 400,
+      "sn": 40,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_503/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 410,
+      "sn": 41,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_504/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 420,
+      "sn": 42,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "9.950"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_505/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 9.95,
+      "start": 430,
+      "sn": 43,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.050"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_506/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10.05,
+      "start": 439.95,
+      "sn": 44,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_507/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 450,
+      "sn": 45,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_508/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 460,
+      "sn": 46,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_509/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 470,
+      "sn": 47,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_510/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 480,
+      "sn": 48,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_511/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 490,
+      "sn": 49,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_512/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 500,
+      "sn": 50,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_513/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 510,
+      "sn": 51,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_514/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 520,
+      "sn": 52,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_515/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 530,
+      "sn": 53,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_516/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 540,
+      "sn": 54,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_517/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 550,
+      "sn": 55,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_518/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 560,
+      "sn": 56,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_519/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 570,
+      "sn": 57,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_520/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 580,
+      "sn": 58,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_521/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 590,
+      "sn": 59,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_522/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 600,
+      "sn": 60,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_523/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 610,
+      "sn": 61,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "10.000"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_524/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 10,
+      "start": 620,
+      "sn": 62,
+      "urlId": 0,
+      "level": 3
+    },
+    {
+      "_url": null,
+      "_byteRange": null,
+      "_decryptdata": null,
+      "_elementaryStreams": {
+        "audio": false,
+        "video": false
+      },
+      "deltaPTS": 0,
+      "rawProgramDateTime": null,
+      "programDateTime": null,
+      "title": null,
+      "tagList": [
+        [
+          "INF",
+          "4.584"
+        ]
+      ],
+      "cc": 0,
+      "type": "main",
+      "relurl": "url_525/193039199_mp4_h264_aac_hd_7.ts",
+      "baseurl": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+      "duration": 4.584,
+      "start": 630,
+      "sn": 63,
+      "urlId": 0,
+      "level": 3
+    }
+  ],
+  "initSegment": null,
+  "live": false,
+  "needSidxRanges": false,
+  "startCC": 0,
+  "startSN": 0,
+  "startTimeOffset": null,
+  "targetduration": 11,
+  "totalduration": 634.584,
+  "type": "VOD",
+  "url": "https://test-streams.mux.dev/x36xhzz/url_0/193039199_mp4_h264_aac_hd_7.m3u8",
+  "version": 3,
+  "averagetargetduration": 9.915375
+}

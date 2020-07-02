@@ -13,10 +13,12 @@ import Event from '../events';
 import EventHandler from '../event-handler';
 import { ErrorTypes, ErrorDetails } from '../errors';
 import { logger } from '../utils/logger';
-import { Loader, PlaylistContextType, PlaylistLoaderContext, PlaylistLevelType, LoaderCallbacks, LoaderResponse, LoaderStats, LoaderConfiguration } from '../types/loader';
+import { Loader, PlaylistContextType, PlaylistLoaderContext, PlaylistLevelType, LoaderCallbacks, LoaderResponse, LoaderStats, LoaderConfiguration, StreamingProtocol } from '../types/loader';
 import MP4Demuxer from '../demux/mp4demuxer';
 import M3U8Parser from './m3u8-parser';
 import { AudioGroup } from '../types/media-playlist';
+import ParserFactory from '../dash/ParserFactory';
+import { assert } from 'chai';
 
 const { performance } = window;
 
@@ -193,6 +195,7 @@ class PlaylistLoader extends EventHandler {
 
     // apply different configs for retries depending on
     // context (manifest, level, audio/subs playlist)
+
     switch (context.type) {
     case PlaylistContextType.MANIFEST:
       maxRetry = config.manifestLoadingMaxRetry;
@@ -207,7 +210,12 @@ class PlaylistLoader extends EventHandler {
       retryDelay = 0;
       timeout = config.levelLoadingTimeOut;
       // TODO Introduce retry settings for audio-track and subtitle-track, it should not use level retry config
+      if (context.protocol === StreamingProtocol.DASH) {
+        break;
+      } else {
       break;
+      }
+
     default:
       maxRetry = config.levelLoadingMaxRetry;
       timeout = config.levelLoadingTimeOut;
@@ -255,10 +263,10 @@ class PlaylistLoader extends EventHandler {
     // stats.mtime = new Date(target.getResponseHeader('Last-Modified'));
 
     // Validate if it is an M3U8 at all
-    if (string.indexOf('#EXTM3U') !== 0) {
-      this._handleManifestParsingError(response, context, 'no EXTM3U delimiter', networkDetails);
-      return;
-    }
+    // if (string.indexOf('#EXTM3U') !== 0) {
+    //   this._handleManifestParsingError(response, context, 'no EXTM3U delimiter', networkDetails);
+    //   return;
+    // }
 
     // Check if chunk-list or master. handle empty chunk list case (first EXTINF not signaled, but TARGETDURATION present)
     if (string.indexOf('#EXTINF:') > 0 || string.indexOf('#EXT-X-TARGETDURATION:') > 0) {
@@ -283,7 +291,14 @@ class PlaylistLoader extends EventHandler {
     const string = response.data as string;
 
     const url = PlaylistLoader.getResponseUrl(response, context);
-    const { levels, sessionData } = M3U8Parser.parseMasterPlaylist(string, url);
+
+    const parser = ParserFactory.getParser(url);
+    if (!parser) {
+      throw new Error('No valid parser found');
+    }
+
+    // const { levels, sessionData } = M3U8Parser.parseMasterPlaylist(string, url);
+    const { levels, sessionData } = parser.parseMasterPlaylist(string, url);
     if (!levels.length) {
       this._handleManifestParsingError(response, context, 'no level found in manifest', networkDetails);
       return;

@@ -117,7 +117,13 @@ export enum PlaylistLevelType {
   SUBTITLE = 'subtitle'
 }
 
+export enum StreamingProtocol{
+  HLS,
+  DASH
+}
+
 export interface PlaylistLoaderContext extends LoaderContext {
+  protocol :StreamingProtocol
   loader?: Loader<PlaylistLoaderContext>
 
   type: PlaylistContextType
